@@ -1,0 +1,9 @@
+pandas
+matplotlib
+python-dotenv
+newspaper3k
+GoogleNews
+transformers
+torch
+requests
+tqdm
